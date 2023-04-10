@@ -6,6 +6,7 @@ export default{
             previous: null,
             operator: null,
             operatorClicked: false,
+        
         }
     },
     methods:{
